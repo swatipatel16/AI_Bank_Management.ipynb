@@ -37,7 +37,9 @@ Features
 ---
 
  Screenshots
-(Add screenshots here if you want — it makes your project look even better!)
+![Bank System Output](output1.png)
+![Fraud Detection Result](output2.png)
+
 
 ---
 
